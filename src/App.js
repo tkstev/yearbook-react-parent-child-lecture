@@ -14,11 +14,12 @@ function App() {
           <li className="cards-item third">
             <div className="card">
               <div className="card-content">
+                <div className="card-title">Name M. Surname</div>
                 <div className="card-image"></div>
                 <div className="card-container">
-                  <div className="card-title">Name M. Surname</div>
-                  <p className="card-text">"Senior quote"</p>
+                  <i className="card-text">"Senior quote"</i>
                   <p className="card-text">Activities</p>
+                  <p className="card-text">Honors</p>
                 </div>
               </div>
             </div>
